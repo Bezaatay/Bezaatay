@@ -1,5 +1,5 @@
 👋 Hi, I’m @Bezaatay <br>
-👀 I’m interested in mobile app development, particularly with Kotlin for Android.<br>
+👀 I’m interested in mobile app development, particularly with Kotlin for Android and React Native.<br>
 🌱 I’m currently learning advanced Kotlin techniques and exploring Jetpack Compose.<br>
 💞️ I’m looking to collaborate on innovative Android projects that push the boundaries of mobile technology. <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/beyza-atayy/" target="_blank">Linkedin</a> and <a href="mailto:beyzaatay01@gmail.com">Mail</a>
